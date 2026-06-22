@@ -1,7 +1,5 @@
 # Hi, I'm Hossein Salimi 👋
-
 ### Full-Stack Developer
-
 I build modern web applications using React and Django, with a focus on clean architecture, performance, and maintainable code.
 
 ---
@@ -19,26 +17,23 @@ I build modern web applications using React and Django, with a focus on clean ar
 ### 🛠️ Tech Stack
 
 #### Frontend
-
 * JavaScript
 * React
 * HTML5
 * CSS3
 
 #### Backend
-
 * Django
 * Django REST Framework
+* Flask
 * Python
 
 #### Databases
-
 * PostgreSQL
 * SQLite
 * SQL Server
 
 #### Tools & DevOps
-
 * Git
 * GitHub
 * Docker
@@ -49,11 +44,9 @@ I build modern web applications using React and Django, with a focus on clean ar
 ### 📌 Featured Projects
 
 #### 🤖 Telegram Bots
-
 Telegram automation and utility bots built with Python and Django.
 
 #### 🌐 Web Applications
-
 Full-stack web applications with React frontend and Django backend.
 
 ---
@@ -68,11 +61,11 @@ Full-stack web applications with React frontend and Django backend.
 
 ### 🌍 Connect With Me
 
-LinkedIn:
-https://www.linkedin.com/in/hossein-salimi79/
+📄 Resume: https://hsalimi79.github.io/
 
-GitHub:
-https://github.com/hsalimi79
+LinkedIn: https://www.linkedin.com/in/hossein-salimi79/
+
+GitHub: https://github.com/hsalimi79
 
 ---
 
