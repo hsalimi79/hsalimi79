@@ -61,7 +61,7 @@ Full-stack web applications with React frontend and Django backend.
 
 ### 🌍 Connect With Me
 
-📄 Resume: https://hsalimi79.github.io/
+📄 Resume: https://hossein-salimi.resumio.ir/
 
 LinkedIn: https://www.linkedin.com/in/hossein-salimi79/
 
